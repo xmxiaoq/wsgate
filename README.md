@@ -1,0 +1,2 @@
+# wsgate
+A websocket gateway
